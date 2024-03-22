@@ -2,7 +2,7 @@ import cv2
 import os
 import torch
 import openai
-import functools
+# import functools
 import numpy as np
 import face_detection
 import io, tokenize
